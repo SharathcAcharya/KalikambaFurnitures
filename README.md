@@ -1,4 +1,6 @@
-# React + Vite
+# Kalikamba Furnitures
+
+[![Netlify Status](https://api.netlify.com/api/v1/badges/066fdd3a-06b4-4ed0-ba6f-d313176fe7dc/deploy-status)](https://app.netlify.com/sites/kalikambafurnitures/deploys)
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
 
